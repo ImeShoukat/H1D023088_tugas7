@@ -124,3 +124,13 @@ void _loadNotes() async {
   _notes = prefs.getStringList('notes_list') ?? []; 
 }
 ```
+
+## Screenshot
+!["Form Login"](assets/login-ss.png)
+!["Login Gagal"](assets/login-ss-error.png)
+!["Home Page"](assets/home-ss.png)
+!["Notes"](assets/notes-no-notes.png)
+!["Add Notes"](assets/notes-make-notes.png)
+!["Notes(ada isi)"](assets/notes.png)
+!["Music"](assets/music-ss.png)
+!["Sidebar"](assets/sidebar-ss.png)
